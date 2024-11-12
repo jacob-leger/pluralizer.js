@@ -45,3 +45,11 @@ console.log(myPluralizedString); // "I have 3 cats!"
 ```
 
 For our documentation about our other functions, see their JSDoc's @example until we create proper documentation. Thank you for your patience
+
+## 💖 Contributors
+
+<a href="https://github.com/jacob-leger/pluralizer.js/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jacob-leger/pluralizer.js" />
+</a>
+
+_Made with [contrib.rocks](https://contrib.rocks)._
